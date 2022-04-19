@@ -45,4 +45,29 @@ echo $aluno;
 ```
 
 ## Imagens
+![Logotipo PHP](php-logo.png)
+
+## Caixas de seleção
+
+### Lista de Tarefas
+
+- [ ] Arrumar um emprego
+- [ ] Desenvolver no curso
+- [x] Aprender coisas novas
+
+## Tabelas
+
+Cliente | Idade | Cidade
+---     | ---   | ---
+João    |  25   | São Paulo
+Maria   |  19   | Minas
+
+## Emojis
+
+:heart:
+
+:star:
+
+
+
 
